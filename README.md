@@ -1,1 +1,1 @@
-# Python_practice
+Этот проект содержит пример e2e автотеста, который сочетает UI/API/SQL, а так же обработку callback/webhook, также в тесте  использую PageObject.
